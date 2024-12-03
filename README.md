@@ -1,7 +1,8 @@
 # SnowFall
 This plugin adds snow fall to the MiNET server.
+
 Download latest DLL and put into plugin folder.
-![Picture](https://github.com/CobwebSMP/SnowFall/blob/main/picture.png).
+![Picture](https://github.com/laz1444/SnowFall/blob/main/picture.png).
 
 You can also set snow intensity by adding this line to your server's "server.conf" file.
 
